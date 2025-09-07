@@ -1,1 +1,1 @@
-// interfaces/index.ts l
+// interfaces/index.ts
